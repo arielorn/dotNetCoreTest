@@ -1,0 +1,11 @@
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\bin\Debug\netcoreapp2.1\dotNetCoreTest.deps.json
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\bin\Debug\netcoreapp2.1\dotNetCoreTest.runtimeconfig.json
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\bin\Debug\netcoreapp2.1\dotNetCoreTest.runtimeconfig.dev.json
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\bin\Debug\netcoreapp2.1\dotNetCoreTest.dll
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\obj\Debug\netcoreapp2.1\dotNetCoreTest.csprojAssemblyReference.cache
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\obj\Debug\netcoreapp2.1\dotNetCoreTest.csproj.CoreCompileInputs.cache
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\obj\Debug\netcoreapp2.1\dotNetCoreTest.AssemblyInfoInputs.cache
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\obj\Debug\netcoreapp2.1\dotNetCoreTest.AssemblyInfo.cs
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\bin\Debug\netcoreapp2.1\dotNetCoreTest.pdb
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\obj\Debug\netcoreapp2.1\dotNetCoreTest.dll
+c:\users\ariel\source\repos\dotNetCoreTest\dotNetCoreTest\obj\Debug\netcoreapp2.1\dotNetCoreTest.pdb
